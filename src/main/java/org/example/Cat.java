@@ -24,7 +24,4 @@ public class Cat {
           sb.append(dateOfBirth);
           return sb.toString();
      }
-
-
-
 }

@@ -3,10 +3,11 @@ package org.example;
 public class Dog {
 
    String name;
-  int age;
+   int age;
    String breed;
    String ownerName;
    int satiety;
+
    public String getName() {
         return name;
     }
