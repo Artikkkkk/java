@@ -28,5 +28,8 @@ public class MainExample {
 
         dog.feed(12);
         dog.info();
+
+        Cow cow = new Cow();
+        cow.cow();
     }
 }
